@@ -1,6 +1,7 @@
 package AimToOffer;
 
-import TreeNode;
+
+import entity.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

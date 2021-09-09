@@ -1,6 +1,6 @@
 package AimToOffer;
 
-import ListNode;
+import entity.ListNode;
 
 import java.util.Stack;
 

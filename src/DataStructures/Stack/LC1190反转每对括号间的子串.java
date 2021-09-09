@@ -37,6 +37,6 @@ package DataStructures.Stack;
 public class LC1190反转每对括号间的子串 {
 
     public String reverseParentheses(String s) {
-
+        return null;
     }
 }

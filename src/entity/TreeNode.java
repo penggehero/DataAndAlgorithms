@@ -1,3 +1,5 @@
+package entity;
+
 /**
  * @author wupeng
  * @date 2021/5/23 18:44
