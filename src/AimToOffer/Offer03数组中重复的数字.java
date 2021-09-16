@@ -37,7 +37,6 @@ public class Offer03数组中重复的数字 {
     public static int findRepeatNumber2(int[] nums) {
         int i = 0;
         while (i < nums.length) {
-            System.out.printf("判断前arrs=%s, i=%s, num[i]=%s, num[num[i]]=%s \n", Arrays.toString(nums), i, nums[i], nums[nums[i]]);
             // 如果nums[i]和下标i相同，则i++
             if (nums[i] == i) {
                 i++;
